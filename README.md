@@ -1,12 +1,18 @@
-# UE4 third Person shooter project 
+# UE4 third Person shooter project. Action with some Soulsborne elements
 
-A third person shooter game, made in Unreal Engine 4 with standard assets. The game is made in C++ predominantly with some additional effects, created in Blueprints.
+A big project for the third person shooter, made in Unreal Engine 4. The game is made in C++ predominantly with some additional effects, created in Blueprints, as well as animation and other elements related to UI. 
 
-The game has:
-- One level with randonmly spawned enemies. 
+An aim of this project is to learn C++ in game engines, its patterns and how to combine visual programming (Blueprints) and C++ in one project. 
+
+At this moment the game has:
+- Camera/animation/sound settings
+- One simple level with randonmly spawned enemies
 - Three types of weapons and damages 
 - One character with custom animation 
 - Inventory for weapons
+- Simple AI for enemies, which attack in the case appearing in a their visibility area. 
+
 ![photo_2022-08-23 18 14 34](https://user-images.githubusercontent.com/55465730/186211422-cc48e516-d036-40fc-887d-cca2b40602f5.jpeg)
 A screenshot of the game in Unreal Engine 
-Since the level was not released yet, the optinisation is still proceeding. 
+
+In total, it took about 30 hours from start to end. In the result, there is one completed level with most typical elements of the action game. For the future, this project can be developed further with modification of the AI, adding general inventory, customization of the character, or multiplayer regime. 
