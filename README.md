@@ -1,4 +1,6 @@
-# UE4 third Person shooter project. Action with some Soulsborne elements
+# UE4 third Person shooter project. 
+
+**Action with some Soulsborne elements**
 
 A big project for the third person shooter, made in Unreal Engine 4. The game is made in C++ predominantly with some additional effects, created in Blueprints, as well as animation and other elements related to UI. 
 
