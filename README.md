@@ -8,9 +8,11 @@ An aim of this project is to learn C++ in game engines, its patterns and how to 
 
 At this moment the game has:
 - Camera/animation/sound settings
+- HUD 
+- VFX effects made in Blueprints 
+- One character with complete animation 
 - One simple level with randonmly spawned enemies
 - Three types of weapons and damages 
-- One character with custom animation 
 - Inventory for weapons
 - Simple AI for enemies, which attack in the case appearing in a their visibility area. 
 
