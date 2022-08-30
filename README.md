@@ -20,8 +20,9 @@ At this moment the game has:
 A screenshot of the game in Unreal Engine 
 
 
-https://user-images.githubusercontent.com/55465730/187483790-f3e399ac-55ea-4ae9-8cfb-7729e24d6823.mp4
 
-A test of movement and shooting abilities with different kinds of weapons and reloading
+https://user-images.githubusercontent.com/55465730/187485420-54bc9897-8065-48d8-ba11-f7f121af2429.mp4
+
+A test of movement and shooting abilities with different kinds of weapons and reloading. Also an ability of fast movement was added though it needs better visualization. 
 
 In total, it took about 30 hours from start to end. In the result, there is one completed level with most typical elements of the action game. For the future, this project can be developed further with modification of the AI, adding general inventory, customization of the character, or multiplayer regime. 
